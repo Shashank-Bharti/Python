@@ -1,11 +1,5 @@
 # Welcome to my **100 Days of Python** journey! :rocket: This repository documents my progress, challenges, and projects as I work through 100 days of Python coding.
 
----
-
-## :trophy: Why 100 Days of Python?  
-:white_check_mark: Build a consistent coding habit.  
-:white_check_mark: Master Python fundamentals and advanced concepts.  
-:white_check_mark: Create real-world projects and improve problem-solving skills.  
 
 ---
 
@@ -16,7 +10,6 @@ A huge thank you to Angela for creating such an engaging and well-structured cou
 ---
 
 ## :pushpin: Future Plans
-:heavy_check_mark: Complete all 100 days.
 
 :heavy_check_mark: Refactor and optimize code.
 
