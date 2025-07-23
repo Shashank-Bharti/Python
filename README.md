@@ -1,4 +1,4 @@
-# Welcome to my **100 Days of Python** journey! :rocket: This repository documents my progress, challenges, and projects as I work through 100 days of Python coding.
+# Welcome to my **Python** journey! :rocket: This repository documents my progress, challenges, and projects as I work through Programming with Python.
 
 
 ---
